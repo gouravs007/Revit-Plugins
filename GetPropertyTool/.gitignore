@@ -1,0 +1,8 @@
+# Ignore compiler output and build files
+bin/
+obj/
+.vs/
+
+# Ignore user-specific configuration files
+*.user
+*.suo

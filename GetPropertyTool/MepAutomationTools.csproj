@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<Platforms>AnyCPU;x64</Platforms>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="RevitAPI">
+			<HintPath>D:\RVT 2027\Product\Revit 2027\RevitAPI.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+		<Reference Include="RevitAPIUI">
+			<HintPath>D:\RVT 2027\Product\Revit 2027\RevitAPIUI.dll</HintPath>
+			<Private>False</Private>
+		</Reference>
+	</ItemGroup>
+
+</Project>

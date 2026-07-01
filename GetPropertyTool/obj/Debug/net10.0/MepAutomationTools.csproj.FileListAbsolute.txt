@@ -1,0 +1,5 @@
+D:\Revit Automation\Take1\MepAutomationTools\obj\Debug\net10.0\MepAutomationTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revit Automation\Take1\MepAutomationTools\obj\Debug\net10.0\MepAutomationTools.AssemblyInfoInputs.cache
+D:\Revit Automation\Take1\MepAutomationTools\obj\Debug\net10.0\MepAutomationTools.AssemblyInfo.cs
+D:\Revit Automation\Take1\MepAutomationTools\obj\Debug\net10.0\MepAutomationTools.csproj.CoreCompileInputs.cache
+D:\Revit Automation\Take1\MepAutomationTools\obj\Debug\net10.0\MepAutomationTools.csproj.AssemblyReference.cache

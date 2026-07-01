@@ -1,0 +1,12 @@
+D:\Revit Automation\Take1\MepAutomationTools\bin\x64\Debug\net10.0\MepAutomationTools.deps.json
+D:\Revit Automation\Take1\MepAutomationTools\bin\x64\Debug\net10.0\MepAutomationTools.dll
+D:\Revit Automation\Take1\MepAutomationTools\bin\x64\Debug\net10.0\MepAutomationTools.pdb
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\MepAutomationTools.csproj.AssemblyReference.cache
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\MepAutomationTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\MepAutomationTools.AssemblyInfoInputs.cache
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\MepAutomationTools.AssemblyInfo.cs
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\MepAutomationTools.csproj.CoreCompileInputs.cache
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\MepAutomationTools.dll
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\refint\MepAutomationTools.dll
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\MepAutomationTools.pdb
+D:\Revit Automation\Take1\MepAutomationTools\obj\x64\Debug\net10.0\ref\MepAutomationTools.dll
