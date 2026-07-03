@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>MEP Inspector Tool</Name>
+    <Assembly>D:\Revit Automation\Take1\MepAutomationTools\bin\x64\Debug\net10.0\MepAutomationTools.dll</Assembly>
+    <FullClassName>MepAutomationTools.IsolateMepSystem</FullClassName>
+    <ClientId>a90f8450-7195-4fb3-8181-061012920261</ClientId>
+    <VendorId>TECHFORWARD</VendorId>
+    <VendorDescription>BIM Engineer, Automation Engine</VendorDescription>
+  </AddIn>
+</RevitAddIns>
